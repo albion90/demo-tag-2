@@ -1,0 +1,12 @@
+# www.robotstxt.org/
+today robots versatile
+
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
+
+
+####we are good robots
+
+robots for no fast forwards
